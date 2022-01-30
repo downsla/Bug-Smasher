@@ -3,9 +3,8 @@ CPSC 4326 Android Programming - Final Project
 
 Create an Android application using Android 4.4 (KitKat).  Your application is a 2D video game similar to [Ant Smasher](https://play.google.com/store/apps/details?id=com.bestcoolfungames.antsmasher&amp;hl=en).
 
-Instructions
+Instructions  
 Your program will have the following features:
-
 1) A Title Screen showing the name of the application and 2 options:  
 	Play Game  
 	High Score
