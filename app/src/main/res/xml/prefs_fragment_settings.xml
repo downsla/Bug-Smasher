@@ -1,0 +1,11 @@
+<!--suppress DeprecatedClassUsageInspection -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="">
+        <Preference
+            android:title="High Score"
+            android:summary="0"
+            android:key="key_high_score"
+            android:selectable="false"/>
+    </PreferenceCategory>
+</PreferenceScreen>
